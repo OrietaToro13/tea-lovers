@@ -12630,7 +12630,3 @@ if (typeof jQuery === 'undefined') {
 
 }(jQuery);
 
-$('.carousel').carousel({
-	interval: 3000
-})
- //carrusel//

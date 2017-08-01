@@ -1,9 +1,27 @@
  /* 
 Código Hexadecimal verde: #8EC641
 Código Hexadecimal gris footer: #3B3B3B
-*/	body{
+*/	
+body{
 	font-family: 'Raleway', sans-serif;
-	padding: 0;
-	margin: 0;
+}
+#primera{
+	background-size: cover;
+}
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+	.navbar-nav{
+		width: 100%;
+		
+		
+
 	}
-	
+}
+.segunda{
+	width:100%;
+}
+.cuarta{
+	background-size: cover;
+	//background-image: url(../img/min-video-1-2.jpg)
+}
